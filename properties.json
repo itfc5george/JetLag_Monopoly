@@ -1,0 +1,16 @@
+[
+  { "id": "old_kent", "name": "Old Kent Road", "colour": "Brown", "colourCode": "#8B4513", "value": 60, "teamWonBy": null },
+  { "id": "whitechapel", "name": "Whitechapel Road", "colour": "Brown", "colourCode": "#8B4513", "value": 60, "teamWonBy": null },
+  { "id": "angel", "name": "The Angel Islington", "colour": "Light Blue", "colourCode": "#87CEEB", "value": 100, "teamWonBy": null },
+  { "id": "euston", "name": "Euston Road", "colour": "Light Blue", "colourCode": "#87CEEB", "value": 100, "teamWonBy": null },
+  { "id": "pentonville", "name": "Pentonville Road", "colour": "Light Blue", "colourCode": "#87CEEB", "value": 120, "teamWonBy": null },
+  { "id": "pall_mall", "name": "Pall Mall", "colour": "Pink", "colourCode": "#FF1493", "value": 140, "teamWonBy": null },
+  { "id": "whitehall", "name": "Whitehall", "colour": "Pink", "colourCode": "#FF1493", "value": 140, "teamWonBy": null },
+  { "id": "trafalgar", "name": "Trafalgar Square", "colour": "Red", "colourCode": "#FF0000", "value": 240, "teamWonBy": null },
+  { "id": "leicester", "name": "Leicester Square", "colour": "Yellow", "colourCode": "#FFD700", "value": 260, "teamWonBy": null },
+  { "id": "regent", "name": "Regent Street", "colour": "Green", "colourCode": "#008000", "value": 300, "teamWonBy": null },
+  { "id": "oxford", "name": "Oxford Street", "colour": "Green", "colourCode": "#008000", "value": 300, "teamWonBy": null },
+  { "id": "park_lane", "name": "Park Lane", "colour": "Dark Blue", "colourCode": "#00008B", "value": 350, "teamWonBy": null },
+  { "id": "mayfair", "name": "Mayfair", "colour": "Dark Blue", "colourCode": "#00008B", "value": 400, "teamWonBy": null },
+  { "id": "kings_cross", "name": "Kings Cross Station", "colour": "Stations", "colourCode": "#333333", "value": 200, "teamWonBy": null }
+]

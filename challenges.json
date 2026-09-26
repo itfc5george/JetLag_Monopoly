@@ -1,0 +1,16 @@
+[
+  { "id": "old_kent", "challengeName": "Pub Crawl Starter", "challengeDescription": "Take a team selfie outside a traditional pub on Old Kent Road." },
+  { "id": "whitechapel", "challengeName": "Market Traders", "challengeDescription": "Find an item for sale in a local market for exactly £1." },
+  { "id": "angel", "challengeName": "Halo Effect", "challengeDescription": "Pose like an angel next to a prominent street sign." },
+  { "id": "euston", "challengeName": "Ticket Inspector", "challengeDescription": "Take a photo of the team looking at the departure boards inside Euston station." },
+  { "id": "pentonville", "challengeName": "The Big Climb", "challengeDescription": "Count how many steps it takes to walk the steepest part of Pentonville Road." },
+  { "id": "pall_mall", "challengeName": "Royal Wave", "challengeDescription": "Record a video of the team doing their best synchronized Royal Wave." },
+  { "id": "whitehall", "challengeName": "Political Debate", "challengeDescription": "Take a stern photo outside a government building." },
+  { "id": "trafalgar", "challengeName": "Lion Tamer", "challengeDescription": "Get a photo mimicking the pose of the lions at Nelson's Column." },
+  { "id": "leicester", "challengeName": "Movie Stars", "challengeDescription": "Act out a famous 10-second movie scene outside a major cinema." },
+  { "id": "regent", "challengeName": "Window Shopper", "challengeDescription": "Find the most expensive looking item in a shop window and pretend to buy it." },
+  { "id": "oxford", "challengeName": "Human Traffic", "challengeDescription": "Safely cross a busy intersection using a designated pedestrian crossing." },
+  { "id": "park_lane", "challengeName": "Supercars", "challengeDescription": "Spot and photograph a luxury car parked along Park Lane." },
+  { "id": "mayfair", "challengeName": "High Society", "challengeDescription": "Have the whole team strike their most sophisticated, wealthy pose." },
+  { "id": "kings_cross", "challengeName": "Platform 9 3/4", "challengeDescription": "Take a creative photo referencing Harry Potter somewhere near the station." }
+]
